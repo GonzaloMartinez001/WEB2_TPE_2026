@@ -2,6 +2,7 @@ WEB2_TPE_3_2025
 Gonzalo Martinez (gonzalomartinez2934@gmail.com) 42630924
 
 Estoy recursandola por ende uso el mismo trabajo ya aprobado del cuatrimestre anterior
+Les dejo el repo del cuatri anterior con ambas entregas y ya aprobado para comprobar https://github.com/GonzaloMartinez001/WEB2_TPE_3_2025.git
 
 Este proyecto tiene como objetivo diseñar una base de datos que organice y gestione información detallada sobre videojuegos y las compañías que los desarrollan o publican. La base de datos está estructurada en dos tablas principales: Games (Juegos) y Company (Compañías), lo que permite mantener un catálogo eficiente y bien organizado de títulos de videojuegos junto con la información de las empresas responsables de su creación.
 
